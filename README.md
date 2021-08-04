@@ -1,0 +1,5 @@
+-    Yo, I’m @digitalproj3cts
+-    I’m interested in ... learning.
+-    I’m currently learning ... to learn. 
+-    I’m looking to collaborate on ... things.
+-    How to reach me ... get on the twitter thing.
